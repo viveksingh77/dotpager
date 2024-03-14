@@ -14,6 +14,10 @@ Welcome to our Wallpaper App! This app allows users to discover and set beautifu
 
 ## Screenshots
 ![Screenshot_2024-03-14-16-10-43-52_083bf64b6bd66af6349c3fada0c404ed 1](https://github.com/viveksingh77/dotpager/assets/117309481/cc45fe87-b831-4e64-9d18-fe65219df392)
+![Screenshot_2024-03-14-16-11-49-81_083bf64b6bd66af6349c3fada0c404ed](https://github.com/viveksingh77/dotpager/assets/117309481/2a9a4757-dd54-46c4-a6ae-e83b661146c3)
+![Screenshot_2024-03-14-16-11-14-15_083bf64b6bd66af6349c3fada0c404ed](https://github.com/viveksingh77/dotpager/assets/117309481/f75a5f03-8810-4083-a111-8100c9773c1d)
+![Screenshot_2024-03-14-16-11-29-64_083bf64b6bd66af6349c3fada0c404ed](https://github.com/viveksingh77/dotpager/assets/117309481/03a6634d-4a3d-44a0-8c45-fdad0fa510b9)
+![Screenshot_2024-03-14-16-11-08-99_083bf64b6bd66af6349c3fada0c404ed](https://github.com/viveksingh77/dotpager/assets/117309481/2d728cf3-6046-4c8c-b367-7f2820f1416b)
 
 
 ## Feedback and Support
