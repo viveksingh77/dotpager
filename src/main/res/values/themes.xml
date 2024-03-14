@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DotPaper" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+<!--         <item name="colorPrimary">@color/white</item>-->
+        <item name="android:navigationBarColor">#1b0a07</item>
+        <item name="android:textColorHint">@color/white</item>
+<!--        <item name="android:windowTranslucentNavigation">true</item>-->
+<!--        <item name="android:windowTranslucentStatus">false</item>-->
+    </style>
+
+    <style name="Theme.DotPaper" parent="Base.Theme.DotPaper" />
+    <style name="SearchViewStyle" parent="Widget.AppCompat.SearchView">
+        <item name="actionModeCloseDrawable">@drawable/baseline_keyboard_backspace_24</item>
+        <item name="clockIcon">@color/white</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+</resources>
