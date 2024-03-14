@@ -11,26 +11,14 @@ Welcome to our Wallpaper App! This app allows users to discover and set beautifu
 - **Download:** Download wallpapers to your device's storage for offline access or sharing with friends.
 - **Video Demo:** Watch our video demo to see how the app works and get a glimpse of the stunning wallpapers available.
 
-## Video Demo
-
-[Watch the Video Demo](link-to-video-demo)
 
 ## Screenshots
+![Screenshot_2024-03-14-16-10-43-52_083bf64b6bd66af6349c3fada0c404ed 1](https://github.com/viveksingh77/dotpager/assets/117309481/cc45fe87-b831-4e64-9d18-fe65219df392)
 
-[Add screenshots of the app here]
-
-## Installation
-
-To install the Wallpaper App, follow these steps:
-
-1. Download the APK file from the [Google Play Store](link-to-play-store) or [GitHub Releases](link-to-github-releases).
-2. Open the APK file on your Android device.
-3. Follow the on-screen instructions to install the app.
-4. Once installed, open the app and start exploring and setting beautiful wallpapers!
 
 ## Feedback and Support
 
-If you have any feedback, suggestions, or issues with the app, please feel free to [contact us](mailto:your-email@example.com). We're always here to help and improve the user experience.
+If you have any feedback, suggestions, or issues with the app, please feel free to [contact us](mailto:deepusingh6437@gmail.com). We're always here to help and improve the user experience.
 
 ## Contributing
 
@@ -42,4 +30,4 @@ The Wallpaper App is licensed under the [MIT License](link-to-license). You are 
 
 ---
 
-Thank you for choosing our Wallpaper App! We hope you enjoy discovering and setting beautiful wallpapers for your device. If you find the app useful, please consider leaving a positive rating and review on the Google Play Store. Happy wallpapering! 🌟📱
+Thank you for choosing our Wallpaper App! We hope you enjoy discovering and setting beautiful wallpapers for your device. Happy wallpapering! 🌟📱
